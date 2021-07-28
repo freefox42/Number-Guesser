@@ -1,2 +1,2 @@
 # Number-Guesser
-Number Guesser game.
+This is a Number Guesser game.
